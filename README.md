@@ -1,4 +1,4 @@
-# Sicredi API Automation Framework
+# API Automation Framework
 
 ## Overview
 
